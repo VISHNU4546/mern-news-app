@@ -32,3 +32,19 @@ A full-stack **News Application** built using the **MERN stack** (MongoDB, Expre
   │     └── package.json
   ├── README.md         # This file
   ├── .gitignore        # Ignored files
+
+
+## Technologies Used
+
+### Frontend
+- **React.js**: For building the user interface.
+- **Axios**: For making API calls.
+- **React Router**: For routing.
+
+### Backend
+- **Node.js**: JavaScript runtime for the server.
+- **Express.js**: Framework for building backend APIs.
+- **MongoDB**: NoSQL database for data storage.
+- **Mongoose**: Object Data Modeling (ODM) for MongoDB.
+- **JWT**: For secure user authentication.
+
