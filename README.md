@@ -36,7 +36,7 @@ A full-stack **News Application** built using the **MERN stack** (MongoDB, Expre
 
 ## Technologies Used
 
-### Frontend
+### Frontend 
 - **React.js**: For building the user interface.
 - **Axios**: For making API calls.
 - **React Router**: For routing.
